@@ -16,7 +16,7 @@ With this text editor, you can:
 If you don't have Python installed, go to https://www.python.org/downloads/ and install the latest version of Python on your machine.
 
 1. Open up a terminal and type in the following commands:
-_python get-pip.py_
-_pip -V_
+_python get-pip.py_\n
+_pip -V_\n
 _git clone https://github.com/wrightdj99/pythonTextEditor.git_
 2. From here, you can go into your very own PyText editor folder and double click on the .py file to run it.
